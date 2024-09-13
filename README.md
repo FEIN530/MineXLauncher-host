@@ -1,6 +1,6 @@
 # MineXLauncher-host
 
-## Use this repo to host MineXLauncher on your own website!
+Use this repo to host MineXLauncher on your own website!
 
 **You need to be on Linux for this to work. Support for other OSes coming soon.**
 
