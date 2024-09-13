@@ -9,6 +9,7 @@ Steps:
 ```shell
 git clone https://github.com/zumbiepig/MineXLauncher-host.git
 cd MineXLauncher-host
+
 chmod +x bin/linux-x64 OR chmod +x bin/linux-arm64
 PORT=3000 bin/linux-x64 OR PORT=3000 bin/linux-arm64
 ```
