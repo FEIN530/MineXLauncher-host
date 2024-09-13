@@ -2,7 +2,8 @@
 
 ## Use this repo to host MineXLauncher on your own website!
 
-You need to be on Linux for this to work.
+**You need to be on Linux for this to work. Support for other OSes coming soon.**
+
 Steps:
 
 ```shell
